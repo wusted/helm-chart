@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jeanchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-28T20:47:01.841856-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 7814d4a440411d1c781d87ff60377c4f1743d76ffd72edbe0ac828b7f38ebed1
+    name: jeanchart
+    type: application
+    urls:
+    - charts/jeanchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-28T20:47:01.840393-06:00"
